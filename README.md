@@ -1,7 +1,9 @@
 # <img src="https://raw.githubusercontent.com/nee-tin/assets/main/dentistry.png" width="120" alt="Dentistry Icon">
   Responsive Dentist Website
 
-Modern responsive dentist landing page designed using Elementor.
+![Dental Website Screenshot]<img src="https://raw.githubusercontent.com/nee-tin/assets/main/responsive_dental-website.png" width="100%" />
+
+Modern responsive(Desktop/Mobile View) dentist landing page designed using Elementor.
 
 ## Features
 - Responsive layout
